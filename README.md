@@ -36,7 +36,7 @@ Use the table below to keep a quick overview of topics studied. Update it as you
 
 | Topic | Status | Notes |
 |---|---|---|
-| Patterns | In progress | Basic pattern-printing practice |
+| Patterns | Completed | Basic pattern-printing practice |
 | Arrays | In progress | |
 | Strings | Not started | |
 | Hashing | Not started | |
@@ -51,13 +51,7 @@ Use the table below to keep a quick overview of topics studied. Update it as you
 | Backtracking | Not started | |
 | Dynamic Programming | Not started | |
 
-## Daily Practice Log
 
-Add an entry for each practice day. Include problem links where possible so solutions can be traced back to their original statements.
-
-| Date | Problems Solved | Topics | Notes |
-|---|---:|---|---|
-| 2026-10-03 | 5 | Patterns | 9 |
 
 ## Solution Notes
 
