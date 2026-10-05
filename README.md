@@ -19,6 +19,7 @@ Problems are grouped by topic. As the repository grows, each solution should inc
 .
 ├── arrays/
 ├── patterns/
+├── sorting/
 └── README.md
 ```
 
@@ -37,6 +38,7 @@ Use the table below to keep a quick overview of topics studied. Update it as you
 | Topic | Status | Notes |
 |---|---|---|
 | Patterns | Completed | Basic pattern-printing practice |
+| Sorting | In progress | Selection, bubble, insertion, merge, and quick sort |
 | Arrays | In progress | |
 | Strings | Not started | |
 | Hashing | Not started | |
@@ -67,10 +69,14 @@ For each problem, aim to include:
 From the repository root, run a solution with Python:
 
 ```bash
-python patterns/main.py
+python sorting/main.py
 ```
 
 Replace the path with the file you want to run. Some solutions may define a function or class without running it automatically; in that case, add a small example call or test at the bottom of the file.
+
+## Sorting
+
+[`sorting/main.py`](./sorting/main.py) contains implementations of selection sort, bubble sort, insertion sort, merge sort, and quick sort.
 
 ## Languages and Platforms
 
