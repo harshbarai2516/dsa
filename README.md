@@ -38,7 +38,7 @@ Use the table below to keep a quick overview of topics studied. Update it as you
 | Topic | Status | Notes |
 |---|---|---|
 | Patterns | Completed | Basic pattern-printing practice |
-| Sorting | In progress | Selection, bubble, insertion, merge, and quick sort |
+| Sorting | Completed | Selection, bubble, insertion, merge, and quick sort |
 | Arrays | In progress | |
 | Strings | Not started | |
 | Hashing | Not started | |
