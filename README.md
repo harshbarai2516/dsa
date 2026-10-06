@@ -39,7 +39,7 @@ Use the table below to keep a quick overview of topics studied. Update it as you
 |---|---|---|
 | Patterns | Completed | Basic pattern-printing practice |
 | Sorting | Completed | Selection, bubble, insertion, merge, and quick sort |
-| Arrays | In progress | |
+| Arrays | In progress | | 9 Basic Problems Solved
 | Strings | Not started | |
 | Hashing | Not started | |
 | Two Pointers | Not started | |
